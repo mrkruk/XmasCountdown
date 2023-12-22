@@ -1,4 +1,7 @@
 # XmasCountdown
+
+## By OK Lighting of Bloomington, IL
+
 A Christmas Countdown program for Arduino boards and 32x64 RGB Matrix panel 
 
 **Does not use an actual clock - you must set the amount of time remaining before Christmas Day**  
