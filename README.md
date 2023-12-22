@@ -16,7 +16,7 @@ This project was developed using an Arduino Mega board with a 32x64 RGB matrix p
 
 When looking at the pins on the panel input, 2 per row and working top to bottom, the wiring to the Arduino Mega board is as follows:  
 
-**Panel-Board Panel-Board** - 
+**Panel-Board Panel-Board**   
 R1-24   G1-25  
 B1-26   GND-GND  
 R2-27   G2-28  
