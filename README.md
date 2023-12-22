@@ -13,3 +13,16 @@ Power to the board must be provided for the countdown to maintain its values - e
 The RGB matrix panel requires its own 5v power supply.  
 
 This project was developed using an Arduino Mega board with a 32x64 RGB matrix panel.
+
+When looking at the pins on the panel input, the wiring to the Arduino Mega board is as follows:  
+
+**Panel-Board Panel-Board** - each line is two pins/boxes on the panel input and corresponds to the input on the board as numbered.  Again, this is for Arduino Mega boards.
+R1-24   G1-25  
+B1-26   GND-GND  
+R2-27   G2-28  
+B2-29   GND-GND  
+A-A0    B-A1  
+C-A2    D-A3  
+CLK-11  LAT-10  
+OE-9    GND-GND  
+
