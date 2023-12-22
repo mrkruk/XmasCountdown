@@ -31,10 +31,10 @@ OE-9,    GND-GND
 
 Again, this is for **Arduino Mega boards** (or equivalent - Elegoo etc).  
 
-You will need to install the following in your Arduino IDE:
-#include <RGBmatrixPanel.h>
-#include <Fonts/FreeMono12pt7b.h>
-#include <Fonts/FreeMono9pt7b.h>
-#include <CountDown.h>
+You will need to install the following in your Arduino IDE:  
+#include <RGBmatrixPanel.h>  
+#include <Fonts/FreeMono12pt7b.h>  
+#include <Fonts/FreeMono9pt7b.h>  
+#include <CountDown.h>  
 
 The heart of this Xmas Countdown comes from the amazing code of Rob Tillaart:  https://github.com/RobTillaart/CountDown
