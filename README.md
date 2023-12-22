@@ -26,4 +26,6 @@ C-A2    D-A3
 CLK-11  LAT-10  
 OE-9    GND-GND  
 
-Again, this is for **Arduino Mega boards** (or equivalent - Elegoo etc).
+Again, this is for **Arduino Mega boards** (or equivalent - Elegoo etc).  
+
+The heart of this Xmas Countdown comes from the amazing code of Rob Tillaart:  https://github.com/RobTillaart/CountDown
