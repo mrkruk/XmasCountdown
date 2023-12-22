@@ -35,7 +35,8 @@ You will need to install the following in your Arduino IDE:
 RGB matrix Panel by Adafruit   
 Countdown by Rob Tillaart  
 
-From Adafruit-GFX-Library (comes with RGB matrix Panel)
+From Adafruit-GFX-Library (comes with RGB matrix Panel)  
+
 Fonts/FreeMono12pt7b.h  
 Fonts/FreeMono9pt7b.h  
 See: https://github.com/adafruit/Adafruit-GFX-Library/tree/master/Fonts
