@@ -1,6 +1,6 @@
 # XmasCountdown
 
-## By OK Lighting of Bloomington, IL
+### By OK Lighting of Bloomington, IL
 
 A Christmas Countdown program for Arduino boards and 32x64 RGB Matrix panel 
 
