@@ -15,7 +15,7 @@ The RGB matrix panel requires its own 5v power supply.  By which I mean - you ca
 This project was developed using an Arduino Mega board with a 32x64 RGB matrix panel.  
 
 **Wiring your panel to your Arduino Mega board**  
-You'll need some wires that are male on end, female on the other.  
+You'll need some wires that are male on one end, female on the other.  
 
 When looking at the pins on the panel input, 2 per row and working top to bottom, the wiring to the Arduino Mega board is as follows:  
 
